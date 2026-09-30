@@ -1,1 +1,9 @@
+# Questions for the Student Report
 
+**1. Give the full scientific name, family, NCBI accession/version, database source, and complete plastid-genome size of your selected organism.**
+
+My selected organism is Dracaena draco, commonly known as the dragon tree. It belongs to the family Asparagaceae. The plastid genome accession is NC_048492.1, and the database source is NCBI RefSeq. The complete plastid genome is 155,422 bp long. The genome size was also obtained from my Galaxy FASTA Statistics result, where the scaffold number of base pairs was 155,422. NCBI identifies NC_048492.1 as the complete D. draco chloroplast genome.
+
+**2. What evidence shows that the sequence is a complete plastid/chloroplast genome rather than a barcode marker, genome fragment, or nuclear sequence?**
+
+The NCBI record specifically identifies NC_048492.1 as “*Dracaena draco* chloroplast, complete genome.” The sequence is also 155,422 bp, which is much larger than a typical short DNA barcode marker. It contains the expected complete chloroplast organization, including the LSC, SSC, and two IR regions, as well as genes involved in photosynthesis, transcription, translation, and other plastid functions. These features support that it is a complete chloroplast genome rather than a small barcode or nuclear DNA fragment.
